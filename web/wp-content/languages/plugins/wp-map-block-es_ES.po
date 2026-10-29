@@ -1,0 +1,46 @@
+# Translation of Plugins - WP Map Block &#8211; Gutenberg Map Block for Google Map and OpenStreet Map by aBlocks - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Map Block &#8211; Gutenberg Map Block for Google Map and OpenStreet Map by aBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-09 08:33:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Map Block &#8211; Gutenberg Map Block for Google Map and OpenStreet Map by aBlocks - Stable (latest release)\n"
+
+#: includes/Admin.php:34
+msgid "Rate the plugin."
+msgstr "Valorar el plugin."
+
+#: includes/Admin.php:33
+msgid "Rate the plugin ★★★★★"
+msgstr "Valorar el plugin  ★★★★★"
+
+#: includes/Admin.php:29
+msgid "Visit community forums"
+msgstr "Visitar los foros de la comunidad"
+
+#: includes/Admin.php:28
+msgid "Community Support"
+msgstr "Soporte de la comunidad"
+
+#: includes/Admin.php:24
+msgid "View WP Map Block documentation"
+msgstr "Ver la documentación de WP Map Block"
+
+#: includes/Admin.php:23
+msgid "Docs"
+msgstr "Documentos"
+
+#. Plugin URI of the plugin
+#: wp-map-block.php
+msgid "https://academylms.net/wp-map-block"
+msgstr "https://academylms.net/wp-map-block"
+
+#. Description of the plugin
+#: wp-map-block.php
+msgid "Gutenberg Map Block for Google Map and OpenStreet Map build with LeafletJS"
+msgstr "Bloque de Gutenberg de mapa para Google Map y OpenStreet Map construido con LeafletJS"
